@@ -1,4 +1,4 @@
-# deal_or_no_deal
+# Deal Or No Deal
 
 Deal Or No Deal is a Python game inspired by the TV game show of the same name. It combines luck, risk, and the decision-making process of knowing when to walk away. The game features 26 cases, each containing a different dollar amount ranging from $.01 to $1,000,000. The player's objective is to choose the case they believe holds the million-dollar prize. They then proceed to open other cases, revealing the contained dollar amounts and increasing their odds of having the million-dollar case.
 
